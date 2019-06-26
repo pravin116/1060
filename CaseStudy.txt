@@ -1,0 +1,21 @@
+Problem definition-
+
+fabrikam company wants to develop -
+   1)information management solution
+   2)online shopping service for customer
+   3)Feedback management system and leave management system for all employee.
+
+ And also want to host these services on Amazon webservices or google cloud platform or AWS.
+
+
+-while developing information management system we have to gather all information of 24 office and the employee .Aslo collected the product related information.
+
+functional requirement-
+- design a database to store all information.
+- 
+- develope a web UI to show all the information.
+- 
+ 
+
+Non-functional requirement
+-
